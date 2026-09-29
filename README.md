@@ -331,11 +331,11 @@ My goal is to continuously improve my Data Engineering and Cloud skills and buil
 
 ⭐ Connect With Me
 
-GitHub: [Add your GitHub profile]
+GitHub: https://github.com/Laxmi7676
 
-LinkedIn: [Add your LinkedIn profile]
+LinkedIn: https://www.linkedin.com/in/laxmi-ramanagoudra/
 
-Email: [Add your professional email]
+Email: laxmiramanagoudra@gmail.com
 
 ⭐ Project Status
 
