@@ -337,12 +337,6 @@ LinkedIn: https://www.linkedin.com/in/laxmi-ramanagoudra/
 
 Email: laxmiramanagoudra@gmail.com
 
-⭐ Project Status
-
-🚧 Work in Progress
-
-This project is continuously being improved as I learn and implement new Data Engineering concepts.
-
 📜 License
 
 This project is created for learning and portfolio purposes.
